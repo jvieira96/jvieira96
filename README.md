@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ My name is João Vieira and I'm a student at 42 school Porto<br><br><br>🔭 I’m currently working on minishell, a project of 42 school common core<br><br><br>🌱 Always learning!
+⚡ My name is João Vieira and I'm a student at 42 school Porto<br><br><br>🔭 I’m currently working on minishell, 42 school common core project<br><br><br>🌱 Always learning!
 
 
 # 💻 Tech Stack:
