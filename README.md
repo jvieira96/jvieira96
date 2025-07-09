@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ My name is João Vieira and I'm a student at 42 school Porto<br><br><br>🔭 I’m currently working on philosophers, 42 school common core project<br><br><br>🌱 Always learning!
+⚡ My name is João Vieira and I'm a student at 42 school Porto<br><br><br>🔭 I’m currently looking for a partner for cub3d, 42 school common core project<br><br><br>🌱 Always learning!
 
 
 # 💻 Tech Stack:
