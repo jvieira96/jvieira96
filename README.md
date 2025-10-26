@@ -24,19 +24,19 @@ Highly motivated by challenges and eager to keep learning.
 ![Makefile](https://img.shields.io/badge/-Makefile-6C757D?style=flat)
 ![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-121011?logo=gnu-bash&logoColor=white&style=flat)
 
-# [Portfolio Icon](https://cdn-icons-png.flaticon.com/512/1828/1828817.png) Portfolio
+# 🗃️ Portfolio
 
 Here are some of my projects from **42 Porto**. Click the project names to view the repositories.
 
 | Project | Tools | Notions | Description |
 |---------|-------|---------|-------------|
-| [cpp00-04](https://github.com/jvieira96/cpp00-04) | C++ | Object-oriented programming, Classes, Inheritance, Polymorphism | Series of exercises exploring fundamental C++ concepts, from basic classes to advanced inheritance and polymorphism. |
-| [minishell](https://github.com/jvieira96/42_minishell) | C, Makefile | Command Line Interface, Tokenization, Abstract Syntax Tree, UNIX processes, File Descriptors, Redirections, Pipes, Heredoc | Simplified version of the Bourne-Again Shell (Bash). Done in partnership with José Júnior. |
+| [cpp00-04](https://github.com/jvieira96/42_CPP_00-04) | C++ | Object-oriented programming, Classes, Inheritance, Polymorphism | Series of exercises exploring fundamental C++ concepts, from basic classes to advanced inheritance and polymorphism. |
+| [minishell](https://github.com/jvieira96/42_minishell) | C, Makefile | Command Line Interface, Tokenization, Abstract Syntax Tree, UNIX processes, File Descriptors, Redirections, Pipes, Heredoc | Simplified version of the Bourne-Again Shell (Bash). Done in partnership. |
 | [philosophers](https://github.com/jvieira96/42_philosophers) | C, Makefile, POSIX threads | Concurrency, Deadlock prevention, Mutexes, Synchronization | Implementation of the Dining Philosophers problem using multithreading and proper resource management. |
 | [pipex](https://github.com/jvieira96/42_pipex) | C, Makefile, Linux | Pipe handling, Process management, File Descriptors, Redirections | Implementation of piping between processes to simulate shell behavior, including bonus features. |
 | [fractol](https://github.com/jvieira96/42_fractol) | C, Makefile, Linux | Graphics programming, Complex numbers, Event handling | A graphical program to visualize fractals with interactive zoom and color schemes. |
 | [push_swap](https://github.com/jvieira96/42_push_swap) | C, Makefile | Sorting algorithms, Stack operations, Algorithm optimization | Implementation of sorting algorithms using stacks to minimize the number of operations. |
-| [born2beroot](https://github.com/jvieira96/42_born2beroot) | Shell scripting, Linux | System administration, Shell commands, Scripting | Automated setup of a Linux server with users, services, and network configuration. |
+| [born2beroot](https://github.com/jvieira96/42_Born2beroot) | Shell scripting, Linux | System administration, Shell commands, Scripting | Automated setup of a Linux server with users, services, and network configuration. |
 | [Printf](https://github.com/jvieira96/42_ft_printf) | C, Makefile | Variadic functions, Formatting, Conversions | Recreation of the `printf` function handling multiple format specifiers and conversions. |
 | [get_next_line](https://github.com/jvieira96/42_get_next_line_with_list) | C, Makefile | File I/O, Buffer management, Static variables, Linked lists | Reads a line from a file descriptor efficiently using static buffers and linked lists, with bonus functionality for multiple file descriptors. |
 | [libft](https://github.com/jvieira96/42_libft) | C, Makefile | Memory management, String manipulation, Linked lists | Custom C library re-implementing standard functions, including bonus functions for linked list management. |
