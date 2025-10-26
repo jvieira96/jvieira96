@@ -30,16 +30,17 @@ Here are some of my projects from **42 Porto**. Click the project names to view 
 
 | Project | Tools | Notions | Description |
 |---------|-------|---------|-------------|
-| [minishell](https://github.com/jvieira96/42_minishell) | C, Makefile | Command Line Interface, Tokenization, Abstract Syntax Tree, UNIX processes, File Descriptors, Redirections, Pipes, Heredoc | This project’s objective is to create a simplified version of the Bourne-Again Shell (Bash). Done in partnership with José Júnior. |
-| [libft](https://github.com/jvieira96/42_libft) | C, Makefile | Memory management, String manipulation, Linked lists | A custom C library re-implementing standard functions to strengthen understanding of low-level programming. |
-| [get_next_line](https://github.com/jvieira96/42_get_next_line_with_list) | C, Makefile | File I/O, Buffer management, Static variables, Linked lists | Reads a line from a file descriptor efficiently using static buffers and linked lists. |
-| [ft_printf](https://github.com/jvieira96/42_ft_printf) | C, Makefile | Variadic functions, Formatting, Conversions | Recreation of the `printf` function handling multiple format specifiers and conversions. |
-| [push_swap](https://github.com/jvieira96/42_push_swap) | C, Makefile | Sorting algorithms, Stack operations, Algorithm optimization | Implementation of sorting algorithms using stacks to optimize the number of operations. |
-| [so_long](https://github.com/jvieira96/42_so_long) | C, Makefile, Linux | Game development, Event handling, 2D map parsing | A simple 2D game where the player collects items and reaches the exit while avoiding obstacles. |
-| [pipex](https://github.com/jvieira96/42_pipex) | C, Makefile, Linux | Pipe handling, Process management, File Descriptors, Redirections | Implementation of piping between processes to simulate shell behavior. |
-| [fdf](https://github.com/jvieira96/42_fdf) | C, Makefile, Linux | Graphics programming, 3D projections, Isometric rendering | A project to visualize 3D maps using isometric projections. |
-| [42sh](https://github.com/jvieira96/42_42sh) | C, Makefile, Shell scripting, Linux | Shell programming, Parsing, Execution of commands | A custom shell implementation with advanced parsing capabilities. |
-| [cub3d](https://github.com/jvieira96/42_cub3d) | C, Makefile, Linux | 3D rendering, Raycasting, Game engine | A 3D game engine project using raycasting for rendering walls and player movement. |
+| [cpp00-04](https://github.com/jvieira96/cpp00-04) | C++ | Object-oriented programming, Classes, Inheritance, Polymorphism | Series of exercises exploring fundamental C++ concepts, from basic classes to advanced inheritance and polymorphism. |
+| [minishell](https://github.com/jvieira96/42_minishell) | C, Makefile | Command Line Interface, Tokenization, Abstract Syntax Tree, UNIX processes, File Descriptors, Redirections, Pipes, Heredoc | Simplified version of the Bourne-Again Shell (Bash). Done in partnership with José Júnior. |
+| [philosophers](https://github.com/jvieira96/42_philosophers) | C, Makefile, POSIX threads | Concurrency, Deadlock prevention, Mutexes, Synchronization | Implementation of the Dining Philosophers problem using multithreading and proper resource management. |
+| [pipex](https://github.com/jvieira96/42_pipex) | C, Makefile, Linux | Pipe handling, Process management, File Descriptors, Redirections | Implementation of piping between processes to simulate shell behavior, including bonus features. |
+| [fractol](https://github.com/jvieira96/42_fractol) | C, Makefile, Linux | Graphics programming, Complex numbers, Event handling | A graphical program to visualize fractals with interactive zoom and color schemes. |
+| [push_swap](https://github.com/jvieira96/42_push_swap) | C, Makefile | Sorting algorithms, Stack operations, Algorithm optimization | Implementation of sorting algorithms using stacks to minimize the number of operations. |
+| [born2beroot](https://github.com/jvieira96/42_born2beroot) | Shell scripting, Linux | System administration, Shell commands, Scripting | Automated setup of a Linux server with users, services, and network configuration. |
+| [Printf](https://github.com/jvieira96/42_ft_printf) | C, Makefile | Variadic functions, Formatting, Conversions | Recreation of the `printf` function handling multiple format specifiers and conversions. |
+| [get_next_line](https://github.com/jvieira96/42_get_next_line_with_list) | C, Makefile | File I/O, Buffer management, Static variables, Linked lists | Reads a line from a file descriptor efficiently using static buffers and linked lists, with bonus functionality for multiple file descriptors. |
+| [libft](https://github.com/jvieira96/42_libft) | C, Makefile | Memory management, String manipulation, Linked lists | Custom C library re-implementing standard functions, including bonus functions for linked list management. |
+
 
 
 
