@@ -24,7 +24,7 @@ Highly motivated by challenges and eager to keep learning.
 ![Makefile](https://img.shields.io/badge/-Makefile-6C757D?style=flat)
 ![Shell Scripting](https://img.shields.io/badge/-Shell%20Scripting-121011?logo=gnu-bash&logoColor=white&style=flat)
 
-# 👋 Portfolio
+# [Portfolio Icon](https://cdn-icons-png.flaticon.com/512/1828/1828817.png) Portfolio
 
 Here are some of my projects from **42 Porto**. Click the project names to view the repositories.
 
