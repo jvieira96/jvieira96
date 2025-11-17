@@ -31,7 +31,7 @@ Here are some of my projects from **42 Porto**. Click the project names to view 
 | Project | Tools | Notions | Description |
 |---------|-------|---------|-------------|
 | [cpp00-04](https://github.com/jvieira96/42_CPP_00-04) | C++ | Object-oriented programming, Classes, Inheritance, Polymorphism | Series of exercises exploring fundamental C++ concepts, from basic classes to advanced inheritance and polymorphism. |
-| .[cub3d](https://github.com/jvieira96/42_cub3d)	| C, Makefile, MiniLibX	| Raycasting, 3D Projection, Graphics, Linear Algebra, Game Loop, Map Parsing |	Implementation of a pseudo-3D game engine using the Raycasting technique (similar to Wolfenstein 3D). |
+| [cub3d](https://github.com/jvieira96/42_cub3d)	| C, Makefile, MiniLibX	| Raycasting, 3D Projection, Graphics, Linear Algebra, Game Loop, Map Parsing |	Implementation of a pseudo-3D game engine using the Raycasting technique (similar to Wolfenstein 3D). |
 | [minishell](https://github.com/jvieira96/42_minishell) | C, Makefile | Command Line Interface, Tokenization, Abstract Syntax Tree, UNIX processes, File Descriptors, Redirections, Pipes, Heredoc | Simplified version of the Bourne-Again Shell (Bash). Done in partnership. |
 | [philosophers](https://github.com/jvieira96/42_philosophers) | C, Makefile, POSIX threads | Concurrency, Deadlock prevention, Mutexes, Synchronization | Implementation of the Dining Philosophers problem using multithreading and proper resource management. |
 | [pipex](https://github.com/jvieira96/42_pipex) | C, Makefile, Linux | Pipe handling, Process management, File Descriptors, Redirections | Implementation of piping between processes to simulate shell behavior, including bonus features. |
