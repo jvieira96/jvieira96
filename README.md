@@ -30,6 +30,7 @@ Here are some of my projects from **42 Porto**. Click the project names to view 
 
 | Project | Tools | Notions | Description |
 |---------|-------|---------|-------------|
+| [ft_irc](https://github.com/jvieira96/42_ft_irc) | C++, Makefile | Network Programming, TCP/IP, Sockets, IRC Protocol, Polling/Select, Client-Server Architecture | Implementation of an IRC server from scratch, allowing multiple clients to connect, chat, and manage channels using the IRC protocol. |
 | [cpp00-04](https://github.com/jvieira96/42_CPP_00-04) | C++ | Object-oriented programming, Classes, Inheritance, Polymorphism | Series of exercises exploring fundamental C++ concepts, from basic classes to advanced inheritance and polymorphism. |
 | [cub3d](https://github.com/jvieira96/42_cub3d)	| C, Makefile, MiniLibX	| Raycasting, 3D Projection, Graphics, Linear Algebra, Game Loop, Map Parsing |	Implementation of a pseudo-3D game engine using the Raycasting technique (similar to Wolfenstein 3D). |
 | [minishell](https://github.com/jvieira96/42_minishell) | C, Makefile | Command Line Interface, Tokenization, Abstract Syntax Tree, UNIX processes, File Descriptors, Redirections, Pipes, Heredoc | Simplified version of the Bourne-Again Shell (Bash). Done in partnership. |
